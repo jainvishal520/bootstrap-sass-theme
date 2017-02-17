@@ -1,0 +1,20 @@
+{
+  "name": "bootstrap-sass-theme",
+  "homepage": "https://github.com/jainvishal520/bootstrap-sass-theme",
+  "authors": [
+    "jainvishal520 <vjtinu.jain431@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7"
+  }
+}
