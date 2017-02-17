@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AACC,QAAG;EACF,SAAS,EAAC,IAAI",
-"sources": ["../sass/custom.scss"],
-"names": [],
-"file": "custom.css"
-}
